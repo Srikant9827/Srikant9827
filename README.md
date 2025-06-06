@@ -17,8 +17,6 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-### 🛠️ Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?style=for-the-badge&logo=Springboot&logoColor=white)
 ![Java Spring](https://img.shields.io/badge/-Spring-223233?style=for-the-badge&logo=spring&logoColor=6DB33F)
